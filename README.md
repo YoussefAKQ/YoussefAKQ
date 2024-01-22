@@ -2,8 +2,10 @@
 
 ### Hello! I'm Youssef. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
+#About me 🐵
 I'm 19 years old and i'm trying to be a Software Developer 🐣.
 
+### Technologies 🧑‍💻
 ✍️ My coding languages are Python, Java, SQL, HTML and CSS for now.
 
 
