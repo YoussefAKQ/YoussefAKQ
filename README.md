@@ -1,4 +1,4 @@
-![fotochulacortada2]([https://github.com/YoussefAKQ/YoussefAKQ/assets/118306973/cfdcfe0c-8d0d-4e46-9021-f275d0296e74](https://github.com/YoussefAKQ/YoussefAKQ/assets/118306973/f2d27490-877e-442d-b25c-3eb91b5664c3))
+![fotochulacortada2](https://github.com/YoussefAKQ/YoussefAKQ/assets/118306973/f2d27490-877e-442d-b25c-3eb91b5664c3)
 
 ## Hello! I'm Youssef. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 I'm 19 years old and i'm trying to be a Software Developer 🐣. I am studying a higher degree in Application Development in Madrid, Spain.
