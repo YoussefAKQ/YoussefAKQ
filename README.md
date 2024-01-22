@@ -2,7 +2,7 @@
 
 ### Hello! I'm Youssef. 👋
 
-I'm 19 years old trying to be a Software Developer 🐣.
+I'm 19 years old and i'm trying to be a Software Developer 🐣.
 
 ✍️ My coding languages are Python, Java, SQL, HTML and CSS for now.
 
