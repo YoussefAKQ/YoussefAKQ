@@ -8,5 +8,7 @@ I'm 19 years old and i'm trying to be a Software Developer 🐣.
 ### Technologies 🧑‍💻
 ✍️ My coding languages are Python, Java, SQL, HTML and CSS for now.
 
+<img src="https://github.com/YoussefAKQ/YoussefAKQ/assets/118306973/0aeaecfc-93a0-4ecd-a317-14f9bed1faff" width="40"/>
+
 
 
