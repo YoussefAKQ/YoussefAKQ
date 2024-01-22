@@ -12,4 +12,4 @@ I'm 19 years old and i'm trying to be a Software Developer 🐣. I am studying a
 <img src="https://github.com/YoussefAKQ/YoussefAKQ/assets/118306973/ae8d5981-1eb2-4886-a365-4842b873bc3f" width="40"/>
 
 ## Contact with me
-<a href="google.com"><img src="https://github.com/YoussefAKQ/YoussefAKQ/assets/118306973/175669bb-9332-4e4a-bba8-c158142dab0e" width="40"/></a>
+<a href="[google.com](https://twitter.com/YoussefAKQ)"><img src="https://github.com/YoussefAKQ/YoussefAKQ/assets/118306973/175669bb-9332-4e4a-bba8-c158142dab0e" width="40"/></a>
