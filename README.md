@@ -1,4 +1,4 @@
-![fotochula](https://github.com/YoussefAKQ/YoussefAKQ/assets/118306973/19279ca8-54c7-4960-9501-b391f314af6b)
+![fotochulacortada](https://github.com/YoussefAKQ/YoussefAKQ/assets/118306973/cfdcfe0c-8d0d-4e46-9021-f275d0296e74)
 
 ### Hello! I'm Youssef. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
