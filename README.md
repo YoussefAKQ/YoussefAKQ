@@ -3,7 +3,7 @@
 ## Hello! I'm Youssef. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 I'm 20 years old and i'm going to be a Software Developer 🐣. I am currently in the second year of my a advanced degree in Application Development in Madrid, Spain. In the first year i've studied SQL in MYSQL, Java in Ecplise, Python in IDLE Python, HTML, CSS, XML, a little bit of oracle DB and more... In this second year im studying Visual Basic, JavaScript, Android Studio, C#, Java...and more.
 ## Programming Languages 🧑‍💻
-✍️ My coding languages are SQL, Java, Python, HTML and CSS for now.
+✍️ This are the coding languages i´ve studied or im currently studying:
 
 <div style="display: flex; justify-content: space-around;">
 <img src="https://github.com/YoussefAKQ/YoussefAKQ/assets/118306973/0aeaecfc-93a0-4ecd-a317-14f9bed1faff" width="40"/>
