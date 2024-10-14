@@ -1,6 +1,6 @@
 ![BANNER GITHUB](https://github.com/user-attachments/assets/74b2a3f2-a53c-4ade-adfa-7a507e4b9a4f)
 ## Hello! I'm Youssef. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
-I'm 20 years old and i'm going to be a Software Developer 🐣. I am currently in the second year of my a advanced degree in Application Development in Madrid, Spain.<br> In the first year i've studied SQL in MYSQL, Java in Ecplise, Python in IDLE Python, HTML, CSS, XML, a little bit of oracle DB and more... In this second year im studying Visual Basic in Visual Studio .NET, JavaScript(in the school and by my own), Java in Android Studio, C# in Visual Studio .NET, Data Access orientend java, Odoo in AWS...and more.
+I'm 20 years old and i'm going to be a Software Developer 🐣. I am currently in the second year of my a advanced degree in Application Development in Madrid, Spain.<br> In the first year i've studied SQL in MYSQL, Java in Ecplise, Python in IDLE Python, Linux in VBox, HTML, CSS, XML, a little bit of oracle DB and more... In this second year im studying Visual Basic in Visual Studio .NET, JavaScript(in the school and by my own), Java in Android Studio, C# in Visual Studio .NET, Data Access orientend java, Odoo in AWS...and more.
 ## Programming Languages 🧑‍💻
 ✍️ This are the coding languages i´ve studied or im currently studying:
 
