@@ -12,7 +12,7 @@ I'm 20 years old and i'm going to be a Software Developer 🐣. I am currently i
 <img src="https://github.com/YoussefAKQ/YoussefAKQ/assets/118306973/ae8d5981-1eb2-4886-a365-4842b873bc3f" width="40"/>
 <img src="https://github.com/user-attachments/assets/1148d74a-c1cf-48c3-8304-d2cf92d9133e" width="40" />
 <img src="https://github.com/user-attachments/assets/b72fdd40-042c-4122-a395-3b728b2acc93" width="40" />
-<img src="https://github.com/user-attachments/assets/2a4c865b-4519-43e8-8171-7edbf9fb22fc" width="37" />
+/* <img src="https://github.com/user-attachments/assets/2a4c865b-4519-43e8-8171-7edbf9fb22fc" width="37" /> */ 
 </div>
 
 ## Contact with me
