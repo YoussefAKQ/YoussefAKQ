@@ -18,3 +18,5 @@ I'm 20 years old and i'm going to be a Software Developer 🐣. I am currently i
 
 ## Contact with me
 <a href="https://twitter.com/YoussefAKQ"><img src="https://github.com/YoussefAKQ/YoussefAKQ/assets/118306973/175669bb-9332-4e4a-bba8-c158142dab0e" width="40"/></a>
+<br><br>
+![Visitas al perfil](https://hits.dwyl.com/YoussefAKQ/YoussefAKQ.svg)
