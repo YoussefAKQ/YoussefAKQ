@@ -16,7 +16,7 @@ By my own im currently studying JavaScript and React Native.
  ✍️ This are the coding languages i'm currently studying:
 <div style="display: flex; justify-content: space-around;">
 <img src="https://github.com/user-attachments/assets/215210cd-9eed-471e-8779-78f8e068793c" width="50"/>
-<img src="https://github.com/user-attachments/assets/1148d74a-c1cf-48c3-8304-d2cf92d9133e" width="50" />
+<img src="https://github.com/user-attachments/assets/b93f291e-1d0c-449a-90b2-0370f599cda9" width="50" />
 <img src="https://github.com/user-attachments/assets/b72fdd40-042c-4122-a395-3b728b2acc93" width="50" />
 <img src="https://github.com/YoussefAKQ/YoussefAKQ/assets/118306973/e52b9e5e-8979-49a4-8c04-99f50e7e82bb" width="50"/>
 </div>
