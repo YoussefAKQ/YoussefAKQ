@@ -21,8 +21,7 @@ By my own im currently studying JavaScript and React Native.
 <img src="https://github.com/YoussefAKQ/YoussefAKQ/assets/118306973/e52b9e5e-8979-49a4-8c04-99f50e7e82bb" width="50"/>
 </div>
 
-
 ## Contact with me
-<a href="https://twitter.com/YoussefAKQ"><img src="https://github.com/YoussefAKQ/YoussefAKQ/assets/118306973/175669bb-9332-4e4a-bba8-c158142dab0e" width="40"/></a>
+<a href="https://twitter.com/YoussefAKQ"><img src="https://github.com/user-attachments/assets/255d96f3-b967-4089-adef-cecc3b227e6b" width="50"/></a>
 <br><br>
 ![Visitas al perfil](https://hits.dwyl.com/YoussefAKQ/YoussefAKQ.svg)
