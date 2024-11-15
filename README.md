@@ -17,10 +17,8 @@ By my own im currently studying JavaScript and React Native.
 <div style="display: flex; justify-content: space-around;">
 <img src="https://github.com/user-attachments/assets/54f916c1-271f-421c-8051-5496e1ea4e71" width="50"/>
 <img src="https://github.com/user-attachments/assets/215210cd-9eed-471e-8779-78f8e068793c" width="50"/>
-<img src="https://github.com/user-attachments/assets/b72fdd40-042c-4122-a395-3b728b2acc93" width="50" />
+<img src="https://github.com/user-attachments/assets/3c052ae7-76b1-4e45-bbb5-ed06b34faadd" width="50"/>
 <img src="https://github.com/YoussefAKQ/YoussefAKQ/assets/118306973/e52b9e5e-8979-49a4-8c04-99f50e7e82bb" width="50"/>
- <br>
- 
 </div>
 
 ## Contact with me
