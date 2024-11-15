@@ -13,6 +13,7 @@ By my own im currently studying JavaScript and React Native.
 </div>
 
  ## Programming Languages i´m currently studying 🧑‍💻
+ ✍️ This are the coding languages i'm currently studying:
 <div style="display: flex; justify-content: space-around;">
 <img src="https://github.com/user-attachments/assets/1148d74a-c1cf-48c3-8304-d2cf92d9133e" width="50" />
 <img src="https://github.com/user-attachments/assets/b72fdd40-042c-4122-a395-3b728b2acc93" width="50" />
