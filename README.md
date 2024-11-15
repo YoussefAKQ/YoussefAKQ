@@ -11,10 +11,10 @@ By my own im currently studying JavaScript and React Native.
 <img src="https://github.com/YoussefAKQ/YoussefAKQ/assets/118306973/02f28d56-ca7f-4966-81c8-f9c664e5a77a" width="40"/>
 <img src="https://github.com/YoussefAKQ/YoussefAKQ/assets/118306973/517abb7f-92ef-4626-8599-0c2be1ee5ea6" width="40"/>
 <img src="https://github.com/YoussefAKQ/YoussefAKQ/assets/118306973/ae8d5981-1eb2-4886-a365-4842b873bc3f" width="40"/>
+ ## Programming Languages i´m currently studying 🧑‍💻
 <img src="https://github.com/user-attachments/assets/1148d74a-c1cf-48c3-8304-d2cf92d9133e" width="40" />
-</div>
-## Programming Languages i´m currently studying 🧑‍💻
 <img src="https://github.com/user-attachments/assets/b72fdd40-042c-4122-a395-3b728b2acc93" width="40" />
+</div>
 
 
 ## Contact with me
