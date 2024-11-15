@@ -2,8 +2,8 @@
 ## Hello! I'm Youssef. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 I'm 20 years old and i'm a software development student 🐣. I am currently in the second year of my a advanced degree in Application Development in Madrid, Spain.<br> In the first year i've studied SQL in MYSQL, Java in Ecplise, Python in IDLE Python, Linux in VBox, HTML, CSS, XML, a little bit of oracle DB and more... In this second year im studying Visual Basic in Visual Studio .NET, Java in Android Studio, Data Access orientend java, Odoo in AWS...and more.
 By my own im currently studying JavaScript and React Native.
-## Programming Languages i´ve studied 🧑‍💻
-✍️ This are the coding languages i´ve studied:
+## Programming Languages i´ve studied :computer:
+:books: This are the coding languages i´ve studied:
 <div style="display: flex; justify-content: space-around;">
 <img src="https://github.com/YoussefAKQ/YoussefAKQ/assets/118306973/0aeaecfc-93a0-4ecd-a317-14f9bed1faff" width="50"/>
 <img src="https://github.com/YoussefAKQ/YoussefAKQ/assets/118306973/e52b9e5e-8979-49a4-8c04-99f50e7e82bb" width="50"/>
@@ -21,7 +21,7 @@ By my own im currently studying JavaScript and React Native.
 <img src="https://github.com/YoussefAKQ/YoussefAKQ/assets/118306973/e52b9e5e-8979-49a4-8c04-99f50e7e82bb" width="50"/>
 </div>
 
-## Contact with me
+## Contact with me :mailbox:
 <a href="https://twitter.com/YoussefAKQ"><img src="https://github.com/user-attachments/assets/255d96f3-b967-4089-adef-cecc3b227e6b" width="50"/></a>
 <br><br>
 ![Visitas al perfil](https://hits.dwyl.com/YoussefAKQ/YoussefAKQ.svg)
