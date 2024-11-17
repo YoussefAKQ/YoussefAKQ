@@ -2,8 +2,8 @@
 ## Hello! I'm Youssef. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 I'm 20 years old and i'm a software development student 🐣. I am currently in the second year of my a advanced degree in Application Development in Madrid, Spain.<br> In the first year i've studied SQL in MYSQL, Java in Ecplise, Python in IDLE Python, Linux in VBox, HTML, CSS, XML, a little bit of oracle DB and more... In this second year im studying Visual Basic .NET, Java in Android Studio, Data Access orientend java, Odoo in AWS...and more.
 By my own im currently studying JavaScript and React Native.
-## Programming Languages i´ve studied :computer:
-:books: This are the coding languages i´ve studied:
+## Technologies i´ve studied :computer:
+:books: This are the technologies i´ve studied:
 <div style="display: flex; justify-content: space-around;">
 <img src="https://github.com/YoussefAKQ/YoussefAKQ/assets/118306973/0aeaecfc-93a0-4ecd-a317-14f9bed1faff" width="50"/>
 <img src="https://github.com/YoussefAKQ/YoussefAKQ/assets/118306973/e52b9e5e-8979-49a4-8c04-99f50e7e82bb" width="50"/>
@@ -12,8 +12,8 @@ By my own im currently studying JavaScript and React Native.
 <img src="https://github.com/YoussefAKQ/YoussefAKQ/assets/118306973/ae8d5981-1eb2-4886-a365-4842b873bc3f" width="50"/>
 </div>
 
- ## Programming Languages i´m currently studying 🧑‍💻
- ✍️ This are the coding languages i'm currently studying:
+ ## Technologies i´m currently studying 🧑‍💻
+ ✍️ This are the technologies i'm currently studying:
 <div style="display: flex; justify-content: space-around;">
 <img src="https://github.com/user-attachments/assets/54f916c1-271f-421c-8051-5496e1ea4e71" width="50"/>
 <img src="https://github.com/user-attachments/assets/215210cd-9eed-471e-8779-78f8e068793c" width="50"/>
