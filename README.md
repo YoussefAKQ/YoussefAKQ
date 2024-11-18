@@ -21,9 +21,11 @@ Additionally, I’m self-studying JavaScript and React Native to expand my skill
 <div style="display: flex; justify-content: space-around;">
 <img src="https://github.com/user-attachments/assets/54f916c1-271f-421c-8051-5496e1ea4e71" width="50"/>
 <img src="https://github.com/user-attachments/assets/215210cd-9eed-471e-8779-78f8e068793c" width="50"/>
-<img src="https://github.com/user-attachments/assets/3c052ae7-76b1-4e45-bbb5-ed06b34faadd" width="50"/>
+<img src="https://github.com/user-attachments/assets/9f92a559-f3dd-45a1-9617-70da2e68680a" width="50"/>
 <img src="https://github.com/YoussefAKQ/YoussefAKQ/assets/118306973/e52b9e5e-8979-49a4-8c04-99f50e7e82bb" width="50"/>
-</div>
+<img src="https://github.com/user-attachments/assets/3c052ae7-76b1-4e45-bbb5-ed06b34faadd" width="50"/>
+
+ </div>
 
 ## Contact with me :mailbox:
 <a href="https://twitter.com/YoussefAKQ"><img src="https://github.com/user-attachments/assets/255d96f3-b967-4089-adef-cecc3b227e6b" width="50"/></a>
