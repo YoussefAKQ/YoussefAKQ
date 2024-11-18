@@ -1,7 +1,11 @@
 ![BANNER GITHUB](https://github.com/user-attachments/assets/74b2a3f2-a53c-4ade-adfa-7a507e4b9a4f)
 ## Hello! I'm Youssef. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
-I'm 20 years old and i'm a software development student 🐣. I am currently in the second year of my a advanced degree in Application Development in Madrid, Spain.<br> In the first year i've studied SQL in MYSQL, Java in Ecplise, Python in IDLE Python, Linux in VBox, HTML, CSS, XML, a little bit of oracle DB and more... In this second year im studying Visual Basic .NET, Java in Android Studio, Data Access orientend java, Odoo in AWS...and more.
-By my own im currently studying JavaScript and React Native.
+I'm 20 years old and a software development student 🐣. Currently, I’m in my second year of an advanced degree in Application Development in Madrid, Spain.
+
+During my first year, I studied SQL with MySQL, Java in Eclipse, Python in IDLE, Linux with VirtualBox, HTML, CSS, XML, and gained some exposure to Oracle DB, among other topics.
+In my second year, I’m focusing on Visual Basic .NET, Java in Android Studio, Data Access with Java, Odoo on AWS, and much more.
+
+Additionally, I’m self-studying JavaScript and React Native to expand my skill set.
 ## Technologies i´ve studied :computer:
 :books: This are the technologies i´ve studied:
 <div style="display: flex; justify-content: space-around;">
