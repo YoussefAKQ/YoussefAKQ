@@ -24,6 +24,7 @@ Additionally, I’m self-studying JavaScript, React Native and Git to expand my 
 <img src="https://github.com/user-attachments/assets/9f92a559-f3dd-45a1-9617-70da2e68680a" width="50"/>
 <img src="https://github.com/YoussefAKQ/YoussefAKQ/assets/118306973/e52b9e5e-8979-49a4-8c04-99f50e7e82bb" width="50"/>
 <img src="https://github.com/user-attachments/assets/3c052ae7-76b1-4e45-bbb5-ed06b34faadd" width="50"/>
+<img src="https://github.com/user-attachments/assets/27238520-0f0a-475b-beb0-c012f2aab41c" width="50"/>
 
  </div>
 
