@@ -5,7 +5,7 @@ I'm 20 years old and a software development student 🐣. Currently, I’m in my
 During my first year, I studied SQL with MySQL, Java in Eclipse, Python in IDLE, Linux with VirtualBox, HTML, CSS, XML, and gained some exposure to Oracle DB, among other topics.
 In my second year, I’m focusing on Visual Basic .NET, Java in Android Studio, Data Access with Java, Odoo on AWS, and much more.
 
-Additionally, I’m self-studying JavaScript, React Native and Git to expand my skill set.
+Additionally, I’m self-studying JavaScript, React Native, Git and Next.js to expand my skill set.
 ## Technologies i´ve studied :computer:
 :books: This are the technologies i´ve studied:
 <div style="display: flex; justify-content: space-around;">
@@ -25,6 +25,7 @@ Additionally, I’m self-studying JavaScript, React Native and Git to expand my 
 <img src="https://github.com/YoussefAKQ/YoussefAKQ/assets/118306973/e52b9e5e-8979-49a4-8c04-99f50e7e82bb" width="50"/>
 <img src="https://github.com/user-attachments/assets/3c052ae7-76b1-4e45-bbb5-ed06b34faadd" width="50"/>
 <img src="https://github.com/user-attachments/assets/27238520-0f0a-475b-beb0-c012f2aab41c" width="50"/>
+<img src="https://github.com/user-attachments/assets/2912ba1a-e30a-4100-bdd6-f9db0b0a9908" width="50"/>
 
  </div>
 
