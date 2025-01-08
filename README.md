@@ -3,7 +3,7 @@
 I'm 20 years old and a software development student 🐣. Currently, I’m in my second year of an advanced degree in Application Development in Madrid, Spain.
 
 During my first year, I studied SQL with MySQL, Java in Eclipse, Python in IDLE, Linux with VirtualBox, HTML, CSS, XML, and gained some exposure to Oracle DB, among other topics.
-In my second year, I’m focusing on Visual Basic .NET, Java in Android Studio, Data Access with Java, Odoo on AWS, and much more.
+In my second year, I’m focusing on Visual Basic .NET, Java in Android Studio, Data Access with Java, Odoo on AWS, Python and much more.
 
 Additionally, I’m self-studying JavaScript, React Native, Git and Next.js to expand my skill set.
 ## Technologies i´ve studied :computer:
