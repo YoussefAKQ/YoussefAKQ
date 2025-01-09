@@ -15,7 +15,7 @@ Additionally, I’m self-studying JavaScript, React Native, TailWind Git and Nex
  ## Technologies i´m currently studying 🧑‍💻
  ✍️ This are the technologies i'm currently studying:
 <div style="display: flex; justify-content: space-around;">
-<img src="https://skillicons.dev/icons?i=git,nextjs,java,react,androidstudio,javascript,python,tailwind" />
+<img src="https://skillicons.dev/icons?i=git,javascript,nextjs,java,react,androidstudio,python,tailwind" />
 <img src="https://github.com/user-attachments/assets/3c052ae7-76b1-4e45-bbb5-ed06b34faadd" width="48"/>
  </div>
 
