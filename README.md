@@ -21,7 +21,3 @@ Additionally, I’m self-studying JavaScript, React Native, TailWind, Git and Ne
 
 ## Contact with me :mailbox:
 <a href="https://twitter.com/YoussefAKQ"><img src="https://github.com/user-attachments/assets/255d96f3-b967-4089-adef-cecc3b227e6b" width="48"/></a>
-
-<br>
-
-![Visitas al perfil](https://hits.dwyl.com/YoussefAKQ/YoussefAKQ.svg)
