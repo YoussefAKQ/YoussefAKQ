@@ -17,7 +17,7 @@ Additionally, I’m self-studying JavaScript, React Native, TailWind, Git and Ne
 <div style="display: flex; justify-content: space-around;">
 <img src="https://skillicons.dev/icons?i=git,javascript,nextjs,java,react,androidstudio,python,tailwind" />
 <img src="https://github.com/user-attachments/assets/3c052ae7-76b1-4e45-bbb5-ed06b34faadd" width="48"/>
-<img src="https://github.com/user-attachments/assets/ae2f7beb-c4a8-4365-b651-81524f173c7a" width="58"/>
+<img src="https://github.com/user-attachments/assets/ae2f7beb-c4a8-4365-b651-81524f173c7a" width="55"/>
 
  </div>
 
