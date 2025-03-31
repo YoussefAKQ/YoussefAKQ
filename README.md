@@ -9,17 +9,18 @@ Additionally, I’m self-studying JavaScript, React Native, TailWind, Git and Ne
 ## Technologies i´ve studied :computer:
 :books: This are the technologies i´ve studied:
 <div style="display: flex; justify-content: space-around;">
- <img src="https://skillicons.dev/icons?i=mysql,python,java,html,css" />
+ <img src="https://skillicons.dev/icons?i=mysql,python,java,html,css,androidstudio" />
+ <img src="https://github.com/user-attachments/assets/3c052ae7-76b1-4e45-bbb5-ed06b34faadd" width="48"/>
+ <img src="https://github.com/user-attachments/assets/ae2f7beb-c4a8-4365-b651-81524f173c7a" width="55"/>
+
 </div>
 
  ## Technologies i´m currently studying 🧑‍💻
  ✍️ This are the technologies i'm currently studying:
 <div style="display: flex; justify-content: space-around;">
-<img src="https://skillicons.dev/icons?i=git,javascript,nextjs,java,react,androidstudio,python,tailwind" />
-<img src="https://github.com/user-attachments/assets/3c052ae7-76b1-4e45-bbb5-ed06b34faadd" width="48"/>
-<img src="https://github.com/user-attachments/assets/ae2f7beb-c4a8-4365-b651-81524f173c7a" width="55"/>
-
+<img src="https://skillicons.dev/icons?i=git,javascript,nextjs,react,tailwind,php" />
+<img src="https://github.com/user-attachments/assets/779e9857-198e-4793-8293-b786e8be9562" width="46"/>
  </div>
 
 ## Contact with me :mailbox:
-<a href="https://twitter.com/YoussefAKQ"><img src="https://github.com/user-attachments/assets/255d96f3-b967-4089-adef-cecc3b227e6b" width="48"/></a>
+<a href="https://twitter.com/YoussefAKQ"><img src="https://github.com/user-attachments/assets/255d96f3-b967-4089-adef-cecc3b227e6b" width="52"/></a>
