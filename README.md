@@ -10,7 +10,7 @@ Currently, I'm doing an internship as a Junior Software Developer, where I’m s
 ## Technologies i´ve studied :computer:
 :books: This are some of the technologies i´ve studied:
 <div style="display: flex; justify-content: space-around;">
- <img src="https://skillicons.dev/icons?i=mysql,python,java,html,css,androidstudio" />
+ <img src="https://skillicons.dev/icons?i=mysql,python,java,html,css,androidstudio,nextjs,net" />
  <img src="https://github.com/user-attachments/assets/3c052ae7-76b1-4e45-bbb5-ed06b34faadd" width="48"/>
  <img src="https://github.com/user-attachments/assets/ae2f7beb-c4a8-4365-b651-81524f173c7a" width="55"/>
 
@@ -19,7 +19,7 @@ Currently, I'm doing an internship as a Junior Software Developer, where I’m s
  ## Technologies i´m currently studying 🧑‍💻
  ✍️ This are some of the technologies i'm currently studying/working with:
 <div style="display: flex; justify-content: space-around;">
-<img src="https://skillicons.dev/icons?i=git,javascript,nextjs,react,tailwind,php,python,docker" />
+<img src="https://skillicons.dev/icons?i=git,javascript,react,tailwind,php,python,docker" />
 <img src="https://github.com/user-attachments/assets/779e9857-198e-4793-8293-b786e8be9562" width="46"/>
  </div>
 
