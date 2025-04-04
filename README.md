@@ -8,7 +8,7 @@ Additionally, I’ve self-studied JavaScript, React Native, Tailwind, Git, and N
 
 Currently, I'm doing an internship as a Junior Software Developer, where I’m studying, training, and working with PHP, CodeIgniter 4, and Tailwind.
 ## Technologies i´ve studied :computer:
-:books: This are the technologies i´ve studied:
+:books: This are some of the technologies i´ve studied:
 <div style="display: flex; justify-content: space-around;">
  <img src="https://skillicons.dev/icons?i=mysql,python,java,html,css,androidstudio" />
  <img src="https://github.com/user-attachments/assets/3c052ae7-76b1-4e45-bbb5-ed06b34faadd" width="48"/>
@@ -17,7 +17,7 @@ Currently, I'm doing an internship as a Junior Software Developer, where I’m s
 </div>
 
  ## Technologies i´m currently studying 🧑‍💻
- ✍️ This are the technologies i'm currently studying/working with:
+ ✍️ This are some of the technologies i'm currently studying/working with:
 <div style="display: flex; justify-content: space-around;">
 <img src="https://skillicons.dev/icons?i=git,javascript,nextjs,react,tailwind,php,python" />
 <img src="https://github.com/user-attachments/assets/779e9857-198e-4793-8293-b786e8be9562" width="46"/>
