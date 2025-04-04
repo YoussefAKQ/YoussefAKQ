@@ -1,4 +1,4 @@
-![BANNER GITHUB](https://github.com/user-attachments/assets/74b2a3f2-a53c-4ade-adfa-7a507e4b9a4f)
+![bannergithub](https://github.com/user-attachments/assets/ebc4d5f7-411b-4fa7-8f0d-26d997874266)
 ## Hello! I'm Youssef. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 I'm 20 years old and a software development student 🐣. Currently, I'm in my second year of an advanced degree in Application Development in Madrid, Spain.
 
