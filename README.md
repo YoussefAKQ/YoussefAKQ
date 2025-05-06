@@ -6,7 +6,7 @@ In my first year, I studied SQL with MySQL, Java in Eclipse, Python in IDLE, Lin
 
 Additionally, I’ve self-studied JavaScript, React Native, Tailwind, Git, and Next.js to further expand my skill set.
 
-Currently, I'm doing an internship as a Junior Software Developer, where I’m studying, training, and working with PHP CodeIgniter 4, React, Tailwind, Python AI Oriented (RAG, ChromaDB, Chatbot, OpenAI API)
+Currently, I'm doing an internship as a Junior Software Developer, where I'm studying, training, and working with PHP CodeIgniter 4, React, Javascript, Tailwind, Python AI Oriented (RAG, ChromaDB, Chatbot, OpenAI API, Ollama), Git, and more.
 ## Technologies i´ve studied :computer:
 :books: This are some of the technologies i´ve studied:
 <div style="display: flex; justify-content: space-around;">
