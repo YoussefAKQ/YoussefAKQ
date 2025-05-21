@@ -6,11 +6,11 @@ In my first year, I studied SQL with MySQL, Java in Eclipse, Python in IDLE, Lin
 
 Additionally, I’ve self-studied JavaScript, React Native, Tailwind, Git, and Next.js to further expand my skill set.
 
-Currently, I'm doing an internship as a Junior Software Developer, where I'm studying, training, and working with PHP CodeIgniter 4, React, Javascript, Tailwind, Python AI Oriented (RAG, ChromaDB, Chatbot, OpenAI API, Ollama), Git, and more.
+Currently, I'm doing an internship as a Junior Software Developer, where I've seen PHP CodeIgniter 4, Python AI Oriented (RAG, ChromaDB, Chatbot, OpenAI API, Ollama) and I'm currently training, and working with React, Python, Git, and more.
 ## Technologies i´ve studied :computer:
-:books: This are some of the technologies i´ve studied:
+:books: This are some of the technologies i´ve seen/studied:
 <div style="display: flex; justify-content: space-around;">
- <img src="https://skillicons.dev/icons?i=mysql,python,java,html,css,androidstudio,nextjs,net" />
+ <img src="https://skillicons.dev/icons?i=mysql,python,java,html,css,androidstudio,nextjs,net,docker,php" />
  <img src="https://github.com/user-attachments/assets/3c052ae7-76b1-4e45-bbb5-ed06b34faadd" width="48"/>
  <img src="https://github.com/user-attachments/assets/ae2f7beb-c4a8-4365-b651-81524f173c7a" width="55"/>
 
@@ -19,8 +19,7 @@ Currently, I'm doing an internship as a Junior Software Developer, where I'm stu
  ## Technologies i´m currently studying 🧑‍💻
  ✍️ This are some of the technologies i'm currently studying/working with:
 <div style="display: flex; justify-content: space-around;">
-<img src="https://skillicons.dev/icons?i=git,javascript,react,tailwind,php,python,docker" />
-<img src="https://github.com/user-attachments/assets/779e9857-198e-4793-8293-b786e8be9562" width="46"/>
+<img src="https://skillicons.dev/icons?i=git,javascript,react,tailwind,python" />
  </div>
 
 ## Contact with me :mailbox:
