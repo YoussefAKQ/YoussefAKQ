@@ -19,7 +19,7 @@ Currently, I'm doing an internship as a Junior Software Developer, where I've se
  ## Technologies i´m currently studying 🧑‍💻
  ✍️ This are some of the technologies i'm currently studying/working with:
 <div style="display: flex; justify-content: space-around;">
-<img src="https://skillicons.dev/icons?i=git,javascript,react,tailwind,python" />
+<img src="https://skillicons.dev/icons?i=git,javascript,react,tailwind,python,supabase" />
  </div>
 
 ## Contact with me :mailbox:
