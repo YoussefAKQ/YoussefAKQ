@@ -25,7 +25,7 @@ I have also self-studied technologies like **JavaScript**, **React Native**, **T
 ✍️ These are the technologies I use regularly in my current role:
 
 <div style="display: flex; justify-content: space-around;">
- <img src="https://skillicons.dev/icons?i=git,javascript,react,tailwind,python,supabase,fastapi" />
+ <img src="https://skillicons.dev/icons?i=git,javascript,react,tailwind,python,fastapi" />
 </div>
 
 ---
