@@ -2,11 +2,13 @@
 
 ## 👋 Hello! I'm Youssef <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
-I’m passionate mainly about backend development and AI projects, but I also enjoy front-end development. Currently, at my job.
+I’m passionate mainly about backend development and AI projects, but I also enjoy front-end development.
 
 Currently, at my job, I work primarily with Git, Python, and FastAPI.
 
-During my studies, I focused on Java, Python, MySQL, HTML, CSS, JavaScript, and Linux. As an intern, I gained experience in Python, RAG, ChromaDB, AI projects, Supabase, Docker, and had some exposure to PHP.
+During my studies, I focused on Java, Python, MySQL, HTML, CSS, JavaScript, Android Development (with java) and Linux. 
+
+As an intern, I gained experience in Python, RAG, ChromaDB, AI projects, Supabase, Docker, and had some exposure to PHP.
 
 On my own, I’m continuously learning and improving skills in Python, Git, FastAPI, TypeScript, Tailwind CSS, Supabase, PostgreSQL, Docker, React, Vite, JavaScript, Next.js, RAG, and ChromaDB.
 
