@@ -14,9 +14,7 @@ I have also self-studied technologies like **JavaScript**, **React Native**, **T
 📚 These are some of the technologies I’ve learned and used professionally or in personal projects:
 
 <div style="display: flex; justify-content: space-around;">
- <img src="https://skillicons.dev/icons?i=mysql,python,java,html,css,androidstudio,nextjs,net,docker,php,supabase" />
- <img src="https://github.com/user-attachments/assets/3c052ae7-76b1-4e45-bbb5-ed06b34faadd" width="48"/>
- <img src="https://github.com/user-attachments/assets/ae2f7beb-c4a8-4365-b651-81524f173c7a" width="55"/>
+ <img src="https://skillicons.dev/icons?i=mysql,python,java,html,css,androidstudio,nextjs,docker,supabase" />
 </div>
 
 ---
@@ -25,7 +23,15 @@ I have also self-studied technologies like **JavaScript**, **React Native**, **T
 ✍️ These are the technologies I use regularly in my current role:
 
 <div style="display: flex; justify-content: space-around;">
- <img src="https://skillicons.dev/icons?i=git,javascript,react,tailwind,python,fastapi" />
+ <img src="https://skillicons.dev/icons?i=git,python,fastapi" />
+</div>
+
+## 🌱 Technologies I’m Currently Learning 🔧
+📚 These are the technologies I’m working on to grow my professional expertise.
+
+<div style="display: flex; justify-content: space-around;">
+ <img src="https://skillicons.dev/icons?i=python,fastapi,git,typescript,tailwind,supabase,postgresql,docker,react,javascript,nextjs" />
+ <img src="https://github.com/user-attachments/assets/1177bd2d-e001-4f4c-89df-450f00bac316" width="65"/>
 </div>
 
 ---
