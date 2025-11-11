@@ -30,7 +30,7 @@ I have also self-studied technologies like **JavaScript**, **React Native**, **T
 📚 These are the technologies I’m working on to grow my professional expertise.
 
 <div style="display: flex; justify-content: space-around;">
- <img src="https://skillicons.dev/icons?i=python,fastapi,git,typescript,tailwind,supabase,postgresql,docker,react,javascript,nextjs" />
+ <img src="https://skillicons.dev/icons?i=python,fastapi,git,typescript,tailwind,supabase,postgresql,docker,react,vite,javascript,nextjs" />
  <img src="https://github.com/user-attachments/assets/1177bd2d-e001-4f4c-89df-450f00bac316" width="65"/>
 </div>
 
