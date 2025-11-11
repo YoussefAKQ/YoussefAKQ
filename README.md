@@ -20,7 +20,7 @@ I have also self-studied technologies like **JavaScript**, **React Native**, **T
 ---
 
 ## 🌱 Technologies I’m Currently Learning 🔧
-📚 These are the technologies I’m working on to grow my professional expertise.
+📚 These are the technologies I’m learning/improving on to grow my professional expertise.
 
 <div style="display: flex; justify-content: space-around;">
  <img src="https://skillicons.dev/icons?i=python,fastapi,git,typescript,tailwind,supabase,postgresql,docker,react,vite,javascript,nextjs" />
