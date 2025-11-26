@@ -37,7 +37,7 @@ On my own, I’m continuously learning and improving skills in Python, Git, Fast
 ✍️ These are the technologies I use regularly in my current role:
 
 <div style="display: flex; justify-content: space-around;">
- <img src="https://skillicons.dev/icons?i=git,python,fastapi,mariadb" />
+ <img src="https://skillicons.dev/icons?i=git,python,fastapi,react,javascript,tailwind,github,mysql" />
 </div>
 
 ---
