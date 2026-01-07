@@ -27,8 +27,7 @@ On my own, I’m continuously learning and improving skills in Python, Git, Fast
 📚 These are the technologies I’m learning/improving on to grow my professional expertise.
 
 <div style="display: flex; justify-content: space-around;">
- <img src="https://skillicons.dev/icons?i=python,fastapi,git,typescript,tailwind,supabase,postgresql,docker,react,vite,javascript,nextjs" />
- <img src="https://github.com/user-attachments/assets/1177bd2d-e001-4f4c-89df-450f00bac316" width="65"/>
+ <img src="https://skillicons.dev/icons?i=python,fastapi,typescript,tailwind,react,javascript" />
 </div>
 
 ---
