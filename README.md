@@ -4,7 +4,7 @@
 
 I’m passionate mainly about backend development and AI projects, but I also enjoy front-end development.
 
-Currently, at my job, I work primarily with MariaDB, Git, Python, and FastAPI.
+Currently, at my job, I work primarily with MariaDB, Git, Python, FastAPI, PHP CodeIgniter MVC, Tailwind, HTML and CSS.
 
 During my studies, I focused on Java, Python, MySQL, HTML, CSS, JavaScript, Android Development (with java) and Linux. 
 
@@ -27,7 +27,7 @@ On my own, I’m continuously learning and improving skills in Python, Git, Fast
 📚 These are the technologies I’m learning/improving on to grow my professional expertise.
 
 <div style="display: flex; justify-content: space-around;">
- <img src="https://skillicons.dev/icons?i=python,fastapi,typescript,tailwind,react,javascript" />
+ <img src="https://skillicons.dev/icons?i=python,fastapi,tailwind,react,javascript" />
 </div>
 
 ---
@@ -36,7 +36,7 @@ On my own, I’m continuously learning and improving skills in Python, Git, Fast
 ✍️ These are the technologies I use regularly in my current role:
 
 <div style="display: flex; justify-content: space-around;">
- <img src="https://skillicons.dev/icons?i=git,python,fastapi,react,javascript,tailwind,github,mysql" />
+ <img src="https://skillicons.dev/icons?i=git,python,fastapi,react,javascript,tailwind,github,mysql,php,tailwind,html,css" />
 </div>
 
 ---
