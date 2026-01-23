@@ -38,10 +38,3 @@ On my own, I’m continuously learning and improving skills in Python, Git, Fast
 <div style="display: flex; justify-content: space-around;">
  <img src="https://skillicons.dev/icons?i=git,python,fastapi,react,javascript,tailwind,github,mysql,php,tailwind,html,css" />
 </div>
-
----
-
-## 📬 Contact Me
-<a href="https://twitter.com/YoussefAKQ">
- <img src="https://github.com/user-attachments/assets/255d96f3-b967-4089-adef-cecc3b227e6b" width="52"/>
-</a>
