@@ -1,40 +1,51 @@
-![bannergithub](https://github.com/user-attachments/assets/ebc4d5f7-411b-4fa7-8f0d-26d997874266)
+<img width="1000" height="280" alt="banner-svg" src="https://github.com/user-attachments/assets/a5b355ba-705b-4062-a02a-e0551fffc9be" />
 
-## 👋 Hello! I'm Youssef <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+## 👋 Hello! I'm Youssef Khalifa Quispe <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
-I’m passionate mainly about backend development and AI projects, but I also enjoy front-end development.
+### 🤖 AI Engineer | 💻 Software Developer
 
-Currently, at my job, I work primarily with MariaDB, Git, Python, FastAPI, PHP CodeIgniter MVC, Tailwind, HTML and CSS.
+I’m passionate about building intelligent systems, **RAG architectures**, and scalable **Fullstack applications**. I love bridging the gap between cutting-edge Artificial Intelligence and robust software engineering.
 
-During my studies, I focused on Java, Python, MySQL, HTML, CSS, JavaScript, Android Development (with java) and Linux. 
+* 🔬 **Currently**, I work as a **Junior AI Engineer**, researching and developing **RAG Architectures** with vector databases for optimized document retrieval. I'm also prototyping with the **Anthropic Ecosystem & Model Context Protocol (MCP)** to build custom AI skills and integrations.
+* 💼 **Previously**, I worked as a **Software Developer** building Fullstack applications (FastAPI, React, Tailwind CSS) featuring **AI-powered OCR** for invoice extraction, an **LLM Playground** with prompt versioning and analytics, and internal helpdesk portals supporting 300+ users.
+* 🎓 I hold a Higher Degree in **Multiplatform Application Development (DAM)**, where I built a strong foundation in OOP, databases, and systems.
+* 🌐 Check out my interactive portfolio: **[youssefakq.vercel.app](https://youssefakq.vercel.app/)**
 
-As an intern, I gained experience in Python, RAG, ChromaDB, AI projects, Supabase, Docker, and had some exposure to PHP.
+---
 
-On my own, I’m continuously learning and improving skills in Python, Git, FastAPI, TypeScript, Tailwind CSS, Supabase, PostgreSQL, Docker, React, Vite, JavaScript, Next.js, RAG, and ChromaDB.
+## 🚀 Technologies & Tools I Use Regularly 🧑‍💻
+✍️ These are my daily drivers in my current role and recent projects:
+
+### **Software & Web Development**
+<div style="display: flex; justify-content: space-around; margin-top: 10px; margin-bottom: 20px;">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,tailwind,javascript,html,css,mysql,git,github,vscode" />
+</div>
+
+### **Artificial Intelligence & Ecosystem**
+<div style="display: flex; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
+  <img src="https://img.shields.io/badge/RAG_Architectures-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF4500?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic_%26_MCP-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/AI_OCR-008080?style=for-the-badge&logo=googlelens&logoColor=white" />
+</div>
 
 ---
 
 ## 🧠 Technologies I’ve Worked With :computer:
-📚 These are some of the technologies I’ve learned and used professionally or in personal projects:
+📚 Tools, languages, and databases I have experience with from professional projects, internships, and my studies:
 
-<div style="display: flex; justify-content: space-around;">
- <img src="https://skillicons.dev/icons?i=mysql,python,java,html,css,androidstudio,nextjs,docker,supabase" />
+<div style="display: flex; justify-content: space-around; margin-top: 10px;">
+  <img src="https://skillicons.dev/icons?i=python,java,js,php,fastapi,react,tailwind,mysql,docker,androidstudio" />
 </div>
 
 ---
 
-## 🌱 Technologies I’m Currently Learning 🔧
-📚 These are the technologies I’m learning/improving on to grow my professional expertise.
+## 🌱 Currently Learning & Exploring 🔧
+📚 Continuous learning is my priority. Right now, I'm diving deeper into:
 
-<div style="display: flex; justify-content: space-around;">
- <img src="https://skillicons.dev/icons?i=python,fastapi,tailwind,react,javascript" />
-</div>
-
----
-
-## 🚀 Technologies I’m Currently Using 🧑‍💻
-✍️ These are the technologies I use regularly in my current role:
-
-<div style="display: flex; justify-content: space-around;">
- <img src="https://skillicons.dev/icons?i=git,python,fastapi,react,javascript,tailwind,github,mysql,php,tailwind,html,css" />
-</div>
+* ⚡ **Advanced RAG Pipelines:** Optimizing vector search and semantic retrieval.
+* 🔗 **Model Context Protocol (MCP):** Connecting LLMs to complex external data sources.
+* 🛠️ **AI-Assisted Development:** Mastering workflows with Cursor, Claude, and Antigravity.
+* 📈 **LLM Ops & Cost Optimization:** Managing token latency and concurrency in production.
